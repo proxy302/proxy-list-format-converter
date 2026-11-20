@@ -1,0 +1,6 @@
+# one proxy per line, any of these formats
+203.0.113.10:8000:user-1:p@ss:word
+user-2:secret#1@203.0.113.11:8001
+203.0.113.12:8002@user-3:plain
+socks5h://user-4:a%2Fb@203.0.113.13:1080
+203.0.113.14:3128
